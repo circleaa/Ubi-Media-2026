@@ -1,6 +1,6 @@
 # Phrase Segmentation of Jiangnan Music Using YNote Representation
 
-[![Conference](https://img.shields.io/badge/Conference-Ubi--Media_2026-blue.svg)](https://link.springer.com/chapter/10.1007/978-981-95-9843-4_16)
+[![Conference](https://img.shields.io/badge/Conference-Ubi--Media_2026-blue.svg)](https://2026umediaconf.com/)
 [![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--981--95--9843--4__16-orange.svg)](https://link.springer.com/chapter/10.1007/978-981-95-9843-4_16)
 [![Paper PDF](https://img.shields.io/badge/Paper-Download_PDF-red.svg)](./PhraseSegmentation.pdf)
 
