@@ -1,4 +1,3 @@
-# Ubi-Media-2026 
 # Phrase Segmentation of Jiangnan Music Using YNote Representation
 
 [![Conference](https://img.shields.io/badge/Conference-Ubi--Media_2026-blue.svg)](https://link.springer.com/chapter/10.1007/978-981-95-9843-4_16)
@@ -16,7 +15,7 @@
 * **Authors:** **Yu-Chia Wang (第一作者)**, Yung-Chi Tseng, Cheng-Yang Tsai, Tzu-Wei Huang, Shu-Yen Shih, and Yu-Cheng Lin
 * **Publisher:** SpringerLink
 * **Official Link:** [https://doi.org/10.1007/978-981-95-9843-4_16](https://link.springer.com/chapter/10.1007/978-981-95-9843-4_16)
-* **Full Paper:** [📄 點此檢視 / 下載 PDF (Direct PDF Link)](./Phrase_Segmentation_of_Jiangnan_Music.pdf)
+* **Full Paper:** [📄 點此檢視 / 下載 PDF (Direct PDF Link)](./Phrase Segmentation of Jiangnan Music.pdf)
 
 ---
 
