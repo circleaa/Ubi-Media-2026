@@ -2,7 +2,7 @@
 
 [![Conference](https://img.shields.io/badge/Conference-Ubi--Media_2026-blue.svg)](https://link.springer.com/chapter/10.1007/978-981-95-9843-4_16)
 [![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--981--95--9843--4__16-orange.svg)](https://link.springer.com/chapter/10.1007/978-981-95-9843-4_16)
-[![Paper PDF](https://img.shields.io/badge/Paper-Download_PDF-red.svg)](./Phrase_Segmentation_of_Jiangnan_Music.pdf)
+[![Paper PDF](https://img.shields.io/badge/Paper-Download_PDF-red.svg)](./PhraseSegmentation.pdf)
 
 > 本儲存庫收錄發表於 **The 2026 International Conference on Ubi-Media Computing (Ubi-Media 2026)** 之研究論文全文與相關資料。
 
